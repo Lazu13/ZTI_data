@@ -11,7 +11,7 @@
         "away_team": 2,
         "home_result": 5,
         "away_result": 0,
-        "date": "2018-06-14T18:00:00+03:00",
+        "date": "2018-11-14T18:00:00+03:00",
         "stadium": 1,
         "channels": [
           4,
@@ -31,7 +31,7 @@
         "away_team": 4,
         "home_result": 0,
         "away_result": 1,
-        "date": "2018-06-15T17:00:00+05:00",
+        "date": "2018-11-15T17:00:00+05:00",
         "stadium": 12,
         "channels": [
           3,
@@ -51,7 +51,7 @@
         "away_team": 3,
         "home_result": 3,
         "away_result": 1,
-        "date": "2018-06-19T21:00:00+03:00",
+        "date": "2018-11-19T21:00:00+03:00",
         "stadium": 3,
         "channels": [
           3,
@@ -72,7 +72,7 @@
         "away_team": 2,
         "home_result": 1,
         "away_result": 0,
-        "date": "2018-06-20T18:00:00+03:00",
+        "date": "2018-11-20T18:00:00+03:00",
         "stadium": 10,
         "channels": [
           3,
@@ -92,7 +92,7 @@
         "away_team": 1,
         "home_result": 3,
         "away_result": 0,
-        "date": "2018-06-25T18:00:00+04:00",
+        "date": "2018-11-25T18:00:00+04:00",
         "stadium": 7,
         "channels": [
           4,
@@ -113,7 +113,7 @@
         "away_team": 3,
         "home_result": 2,
         "away_result": 1,
-        "date": "2018-06-25T17:00:00+03:00",
+        "date": "2018-11-25T17:00:00+03:00",
         "stadium": 8,
         "channels": [
           5,
@@ -141,7 +141,7 @@
         "away_team": 6,
         "home_result": 3,
         "away_result": 3,
-        "date": "2018-06-15T21:00:00+03:00",
+        "date": "2018-11-15T21:00:00+03:00",
         "stadium": 11,
         "channels": [
           3,
@@ -162,7 +162,7 @@
         "away_team": 8,
         "home_result": 0,
         "away_result": 1,
-        "date": "2018-06-15T18:00:00+03:00",
+        "date": "2018-11-15T18:00:00+03:00",
         "stadium": 3,
         "channels": [
           4,
@@ -182,7 +182,7 @@
         "away_team": 7,
         "home_result": 1,
         "away_result": 0,
-        "date": "2018-06-20T15:00:00+03:00",
+        "date": "2018-11-20T15:00:00+03:00",
         "stadium": 1,
         "channels": [
           3,
@@ -203,7 +203,7 @@
         "away_team": 6,
         "home_result": 0,
         "away_result": 1,
-        "date": "2018-06-20T21:00:00+03:00",
+        "date": "2018-11-20T21:00:00+03:00",
         "stadium": 5,
         "channels": [
           4,
@@ -224,7 +224,7 @@
         "away_team": 5,
         "home_result": 1,
         "away_result": 1,
-        "date": "2018-06-25T21:00:00+03:00",
+        "date": "2018-11-25T21:00:00+03:00",
         "stadium": 9,
         "channels": [
           3,
@@ -244,7 +244,7 @@
         "away_team": 7,
         "home_result": 2,
         "away_result": 2,
-        "date": "2018-06-25T20:00:00+02:00",
+        "date": "2018-11-25T20:00:00+02:00",
         "stadium": 4,
         "channels": [
           3,
@@ -271,7 +271,7 @@
         "away_team": 10,
         "home_result": 2,
         "away_result": 1,
-        "date": "2018-06-16T13:00:00+03:00",
+        "date": "2018-11-16T13:00:00+03:00",
         "stadium": 5,
         "channels": [
           3,
@@ -292,7 +292,7 @@
         "away_team": 12,
         "home_result": 0,
         "away_result": 1,
-        "date": "2018-06-16T19:00:00+03:00",
+        "date": "2018-11-16T19:00:00+03:00",
         "stadium": 9,
         "channels": [
           3,
@@ -313,7 +313,7 @@
         "away_team": 11,
         "home_result": 1,
         "away_result": 0,
-        "date": "2018-06-21T20:00:00+05:00",
+        "date": "2018-11-21T20:00:00+05:00",
         "stadium": 12,
         "channels": [
           4,
@@ -334,7 +334,7 @@
         "away_team": 10,
         "home_result": 1,
         "away_result": 1,
-        "date": "2018-06-21T16:00:00+04:00",
+        "date": "2018-11-21T16:00:00+04:00",
         "stadium": 7,
         "channels": [
           4,
@@ -355,7 +355,7 @@
         "away_team": 9,
         "home_result": 0,
         "away_result": 0,
-        "date": "2018-06-26T17:00:00+03:00",
+        "date": "2018-11-26T17:00:00+03:00",
         "stadium": 1,
         "channels": [
           4,
@@ -376,7 +376,7 @@
         "away_team": 11,
         "home_result": 0,
         "away_result": 2,
-        "date": "2018-06-26T17:00:00+03:00",
+        "date": "2018-11-26T17:00:00+03:00",
         "stadium": 11,
         "channels": [
           5,
@@ -404,7 +404,7 @@
         "away_team": 14,
         "home_result": 1,
         "away_result": 1,
-        "date": "2018-06-16T16:00:00+03:00",
+        "date": "2018-11-16T16:00:00+03:00",
         "stadium": 2,
         "channels": [
           4,
@@ -424,7 +424,7 @@
         "away_team": 16,
         "home_result": 2,
         "away_result": 0,
-        "date": "2018-06-16T21:00:00+02:00",
+        "date": "2018-11-16T21:00:00+02:00",
         "stadium": 4,
         "channels": [
           4,
@@ -445,7 +445,7 @@
         "away_team": 15,
         "home_result": 0,
         "away_result": 3,
-        "date": "2018-06-21T21:00:00+03:00",
+        "date": "2018-11-21T21:00:00+03:00",
         "stadium": 6,
         "channels": [
           3,
@@ -465,7 +465,7 @@
         "away_team": 14,
         "home_result": 2,
         "away_result": 0,
-        "date": "2018-06-22T18:00:00+03:00",
+        "date": "2018-11-22T18:00:00+03:00",
         "stadium": 8,
         "channels": [
           3,
@@ -486,7 +486,7 @@
         "away_team": 13,
         "home_result": 1,
         "away_result": 2,
-        "date": "2018-06-26T21:00:00+03:00",
+        "date": "2018-11-26T21:00:00+03:00",
         "stadium": 3,
         "channels": [
           3,
@@ -507,7 +507,7 @@
         "away_team": 15,
         "home_result": 1,
         "away_result": 2,
-        "date": "2018-06-26T21:00:00+03:00",
+        "date": "2018-11-26T21:00:00+03:00",
         "stadium": 10,
         "channels": [
           3,
@@ -534,7 +534,7 @@
         "away_team": 18,
         "home_result": 1,
         "away_result": 1,
-        "date": "2018-06-17T21:00:00+03:00",
+        "date": "2018-11-17T21:00:00+03:00",
         "stadium": 10,
         "channels": [
           4,
@@ -554,7 +554,7 @@
         "away_team": 20,
         "home_result": 0,
         "away_result": 1,
-        "date": "2018-06-17T16:00:00+04:00",
+        "date": "2018-11-17T16:00:00+04:00",
         "stadium": 7,
         "channels": [
           4,
@@ -574,7 +574,7 @@
         "away_team": 19,
         "home_result": 2,
         "away_result": 0,
-        "date": "2018-06-22T15:00:00+03:00",
+        "date": "2018-11-22T15:00:00+03:00",
         "stadium": 3,
         "channels": [
           4,
@@ -595,7 +595,7 @@
         "away_team": 18,
         "home_result": 1,
         "away_result": 2,
-        "date": "2018-06-22T20:00:00+02:00",
+        "date": "2018-11-22T20:00:00+02:00",
         "stadium": 4,
         "channels": [
           3,
@@ -616,7 +616,7 @@
         "away_team": 17,
         "home_result": 0,
         "away_result": 2,
-        "date": "2018-06-27T21:00:00+03:00",
+        "date": "2018-11-27T21:00:00+03:00",
         "stadium": 2,
         "channels": [
           4,
@@ -637,7 +637,7 @@
         "away_team": 19,
         "home_result": 2,
         "away_result": 2,
-        "date": "2018-06-27T21:00:00+03:00",
+        "date": "2018-11-27T21:00:00+03:00",
         "stadium": 6,
         "channels": [
           5,
@@ -665,7 +665,7 @@
         "away_team": 22,
         "home_result": 0,
         "away_result": 1,
-        "date": "2018-06-17T18:00:00+03:00",
+        "date": "2018-11-17T18:00:00+03:00",
         "stadium": 1,
         "channels": [
           3,
@@ -685,7 +685,7 @@
         "away_team": 24,
         "home_result": 1,
         "away_result": 0,
-        "date": "2018-06-18T15:00:00+03:00",
+        "date": "2018-11-18T15:00:00+03:00",
         "stadium": 6,
         "channels": [
           4,
@@ -705,7 +705,7 @@
         "away_team": 23,
         "home_result": 2,
         "away_result": 1,
-        "date": "2018-06-23T21:00:00+03:00",
+        "date": "2018-11-23T21:00:00+03:00",
         "stadium": 11,
         "channels": [
           4,
@@ -726,7 +726,7 @@
         "away_team": 22,
         "home_result": 1,
         "away_result": 2,
-        "date": "2018-06-23T18:00:00+03:00",
+        "date": "2018-11-23T18:00:00+03:00",
         "stadium": 10,
         "channels": [
           4,
@@ -747,7 +747,7 @@
         "away_team": 21,
         "home_result": 2,
         "away_result": 0,
-        "date": "2018-06-27T17:00:00+03:00",
+        "date": "2018-11-27T17:00:00+03:00",
         "stadium": 5,
         "channels": [
           3,
@@ -768,7 +768,7 @@
         "away_team": 23,
         "home_result": 0,
         "away_result": 3,
-        "date": "2018-06-27T19:00:00+05:00",
+        "date": "2018-11-27T19:00:00+05:00",
         "stadium": 12,
         "channels": [
           3,
@@ -795,7 +795,7 @@
         "away_team": 26,
         "home_result": 3,
         "away_result": 0,
-        "date": "2018-06-18T18:00:00+03:00",
+        "date": "2018-11-18T18:00:00+03:00",
         "stadium": 11,
         "channels": [
           3,
@@ -815,7 +815,7 @@
         "away_team": 28,
         "home_result": 1,
         "away_result": 2,
-        "date": "2018-06-18T21:00:00+03:00",
+        "date": "2018-11-18T21:00:00+03:00",
         "stadium": 8,
         "channels": [
           3,
@@ -835,7 +835,7 @@
         "away_team": 27,
         "home_result": 5,
         "away_result": 2,
-        "date": "2018-06-23T15:00:00+03:00",
+        "date": "2018-11-23T15:00:00+03:00",
         "stadium": 2,
         "channels": [
           3,
@@ -856,7 +856,7 @@
         "away_team": 26,
         "home_result": 6,
         "away_result": 1,
-        "date": "2018-06-24T15:00:00+03:00",
+        "date": "2018-11-24T15:00:00+03:00",
         "stadium": 6,
         "channels": [
           3,
@@ -877,7 +877,7 @@
         "away_team": 25,
         "home_result": 0,
         "away_result": 1,
-        "date": "2018-06-28T20:00:00+02:00",
+        "date": "2018-11-28T20:00:00+02:00",
         "stadium": 4,
         "channels": [
           4,
@@ -898,7 +898,7 @@
         "away_team": 27,
         "home_result": 1,
         "away_result": 2,
-        "date": "2018-06-28T21:00:00+03:00",
+        "date": "2018-11-28T21:00:00+03:00",
         "stadium": 9,
         "channels": [
           5,
@@ -926,7 +926,7 @@
         "away_team": 30,
         "home_result": 1,
         "away_result": 2,
-        "date": "2018-06-19T18:00:00+03:00",
+        "date": "2018-11-19T18:00:00+03:00",
         "stadium": 2,
         "channels": [
           4,
@@ -947,7 +947,7 @@
         "away_team": 32,
         "home_result": 1,
         "away_result": 2,
-        "date": "2018-06-19T15:00:00+03:00",
+        "date": "2018-11-19T15:00:00+03:00",
         "stadium": 9,
         "channels": [
           3,
@@ -967,7 +967,7 @@
         "away_team": 31,
         "home_result": 0,
         "away_result": 3,
-        "date": "2018-06-24T20:00:00+02:00",
+        "date": "2018-11-24T20:00:00+02:00",
         "stadium": 5,
         "channels": [
           4,
@@ -988,7 +988,7 @@
         "away_team": 30,
         "home_result": 2,
         "away_result": 2,
-        "date": "2018-06-24T18:00:00+03:00",
+        "date": "2018-11-24T18:00:00+03:00",
         "stadium": 12,
         "channels": [
           3,
@@ -1009,7 +1009,7 @@
         "away_team": 29,
         "home_result": 0,
         "away_result": 1,
-        "date": "2018-06-28T17:00:00+03:00",
+        "date": "2018-11-28T17:00:00+03:00",
         "stadium": 8,
         "channels": [
           3,
@@ -1030,7 +1030,7 @@
         "away_team": 31,
         "home_result": 0,
         "away_result": 1,
-        "date": "2018-06-28T18:00:00+04:00",
+        "date": "2018-11-28T18:00:00+04:00",
         "stadium": 7,
         "channels": [
           3,
